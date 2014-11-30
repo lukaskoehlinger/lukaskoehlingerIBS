@@ -1,0 +1,49 @@
+.top {
+background-image:url("img/banner.jpg");
+height: 433px;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.top .container {
+position: relative;
+top:90px;
+}
+.top h1 {
+color: #E2D9D9;
+font-size: 54px;
+font-family: "Times New Roman", Times, serif;
+font-weight: bold;
+}
+.top p {
+font-size: 20px;
+color: #E2D9D9;
+}
+
+.MainB{
+background-color: #565656;
+color: #D9EAE4;
+}
+.MainB container{
+	padding-bottom:	12px;
+}
+.MainB h2 {
+color:#A8A8A8;
+font-family: 'Shift', sans-serif;
+}
+.MainB h3 {
+color:#A8A8A8;
+font-family: 'Shift', sans-serif;
+font-size:18px;
+}
+.MainB p{
+font-size: 14px;
+margin-bottom: 12px;
+}
+.MainB form{
+	color:#181818;	
+}
+
+body { 
+	background-color:#383838;
+	padding-bottom:70px;
+ }
